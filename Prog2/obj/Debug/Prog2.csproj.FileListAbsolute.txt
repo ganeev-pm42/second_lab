@@ -1,0 +1,32 @@
+D:\Users\pm241\Prog2\Prog2\bin\Debug\Prog2.exe
+D:\Users\pm241\Prog2\Prog2\bin\Debug\Prog2.pdb
+D:\Users\pm241\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+D:\Users\pm241\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+D:\Users\pm241\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+D:\Users\pm241\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+D:\Users\pm241\Prog2\Prog2\obj\Debug\Prog2.exe
+D:\Users\pm241\Prog2\Prog2\obj\Debug\Prog2.pdb
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\obj\Debug\Prog2.exe
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\obj\Debug\Prog2.pdb
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\bin\Debug\Prog2.exe
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\bin\Debug\Prog2.pdb
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+D:\Учёба\2 курс\Программирование\Лабы\Lab2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Disk_D\Microsoft_projects\laba2\Prog2\obj\Debug\Prog2.exe
+C:\Disk_D\Microsoft_projects\laba2\Prog2\obj\Debug\Prog2.pdb
+C:\Disk_D\Microsoft_projects\laba2\Prog2\bin\Debug\Prog2.exe
+C:\Disk_D\Microsoft_projects\laba2\Prog2\bin\Debug\Prog2.pdb
+C:\Disk_D\Microsoft_projects\laba2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Disk_D\Microsoft_projects\laba2\Prog2\obj\Debug\Prog2.Form1.resources
+C:\Disk_D\Microsoft_projects\laba2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Disk_D\Microsoft_projects\laba2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\obj\Debug\Prog2.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\obj\Debug\Prog2.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\bin\Debug\Prog2.exe
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\bin\Debug\Prog2.pdb
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\obj\Debug\Prog2.Form1.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\Home\Desktop\ганжа\онф\прогание\2_ready\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
